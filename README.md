@@ -1,3 +1,3 @@
 # html-ejercicios
 
-Ejercicios de la primra clase del Bootcamp
+Ejercicios de la primra clase del bootcamp
